@@ -1,0 +1,32 @@
+package com.hospital.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.hospital.entity.Specialist;
+import com.hospital.service.SpecialistService;
+
+@RestController
+@RequestMapping("api/specialist")
+public class SpecialistController {
+	
+	@Autowired
+	private SpecialistService specialistService;
+	
+	@GetMapping("test")
+	public String test()
+	{
+		return "success";
+	}
+	
+	@GetMapping
+	public List<Specialist> getAllSpecialist()
+	{
+		return null;
+	}
+
+}

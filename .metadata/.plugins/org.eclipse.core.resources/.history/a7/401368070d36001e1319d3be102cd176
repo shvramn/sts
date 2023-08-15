@@ -1,0 +1,20 @@
+package com.hospital.entity;
+
+public class Specialist {
+	
+	private Long id;
+	private String specialistName;
+	
+	public Specialist() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Specialist(Long id, String specialistName) {
+		super();
+		this.id = id;
+		this.specialistName = specialistName;
+	}
+
+
+}

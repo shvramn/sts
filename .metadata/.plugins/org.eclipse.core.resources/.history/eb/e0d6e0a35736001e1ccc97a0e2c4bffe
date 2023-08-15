@@ -1,0 +1,9 @@
+package com.hospital.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.hospital.entity.Appointment;
+
+public interface AppointmentInterface extends CrudRepository<Appointment, Long> {
+
+}

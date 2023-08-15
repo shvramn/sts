@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=firstspringbootjpaproject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.twg.springboot.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1690500727786"/>
+    <typeInfo handle="=billing-be/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.billing.service{PurchaseService.java[PurchaseService" modifiers="513" timestamp="1690512609756"/>
+    <typeInfo handle="=firstspringbootjpaproject/C:\/Users\/shvra\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.1.2\/spring-data-jpa-3.1.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.1.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1690470806676"/>
+    <typeInfo handle="=billing-be/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.billing.service{SellerService.java[SellerService" modifiers="513" timestamp="1690826013458"/>
+    <typeInfo handle="=billing-be/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.billing.service{ItemsService.java[ItemsService" modifiers="513" timestamp="1691110328872"/>
+    <typeInfo handle="=billing-be/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.desktop=/maven.pomderived=/true=/&lt;java.awt(ItemSelectable.class[ItemSelectable" modifiers="1537" timestamp="1685581931333"/>
+    <typeInfo handle="=billing-be/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.billing.service{CategoryService.java[CategoryService" modifiers="513" timestamp="1691116561377"/>
+    <typeInfo handle="=billing-be/C:\/Users\/shvra\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/3.1.2\/spring-data-commons-3.1.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/3.1.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1690470806948"/>
+</typeInfoHistroy>

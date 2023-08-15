@@ -1,0 +1,7 @@
+package com.hospital.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface SpecialistInterface extends CrudRepository<T, ID> {
+
+}
